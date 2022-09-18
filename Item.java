@@ -30,7 +30,7 @@ descrição (o resto do arquivo)      - linha 5 em diante
         3: manopla                  defesa
         4: calça                    defesa
         5: bota                     defesa
-        6: jóia                     defesa
+        6: jóia                     defesa 
         7: escudo                   defesa
         10: armas STR/DEX           ataque
         11: armas INT               ataque
