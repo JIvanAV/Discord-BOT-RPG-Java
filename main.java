@@ -27,11 +27,11 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter                        ;
 import org.jetbrains.annotations.NotNull                                ;
 
 public class Projeto_de_Cria extends ListenerAdapter{
-    public static final String  CAMINHOJOGADORES   = //PATH OF PLAYER FILES;
-    public static final String  CAMINHOMONSTROS    = //PATH OF MOBS FILES;
-    public static final String  CAMINHOITENS       = //PATH OF ITEN FILES;
-    public static final String  CAMINHOHABILIDADES = //PATH OF SKILL FILES;
-    public static final String  TOKEN              = //BOT DISCORD TOKEN;
+    public static final String  CAMINHOJOGADORES   = ""; //PATH OF PLAYER FILES
+    public static final String  CAMINHOMONSTROS    = ""; //PATH OF MOBS FILES
+    public static final String  CAMINHOITENS       = ""; //PATH OF ITEN FILES
+    public static final String  CAMINHOHABILIDADES = ""; //PATH OF SKILL FILES
+    public static final String  TOKEN              = ""; //BOT DISCORD TOKEN
     public static       int     action             = 0                                                                       ;
     public static       int     vez                = 0                                                                       ;
     public static       int     alvo               = 0                                                                       ;
